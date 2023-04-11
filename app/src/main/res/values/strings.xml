@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MonCV</string>
+    <string name="Myname">Yassine B</string>
+    <string name="phone">0210510515</string>
+    <string name="mail">yassinebelazzoug@yahoo.fr</string>
+    <string name="adress">53 avenue julio currie</string>
+
+    <string name="title_exp">Expériences</string>
+    <string name="title_form">Formation</string>
+    <string name="title_comp">Compétences</string>
+
+    <string name="title_language">Language</string>
+    <string name="title_project">Projet</string>
+    <string name="title_return">retour</string>
+</resources>
